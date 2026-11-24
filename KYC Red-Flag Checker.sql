@@ -1,5 +1,5 @@
 -- =====================================================================
---  KYC Red-Flag Checker  (MySQL 8)
+--  KYC Red-Flag Checker
 --  Finds suspicious customer sign-ups using simple SQL.
 --  All data is made up. Never use real customer data.
 -- =====================================================================
